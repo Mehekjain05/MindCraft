@@ -1,0 +1,9 @@
+*.zip
+*.txt
+.ipynb_checkpoints/
+.env
+venv
+__pycache__/
+csv_data_files/
+instance/
+assistant_data/faiss_index_assistant/
